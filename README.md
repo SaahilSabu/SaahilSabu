@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there👋, I'm Saahil Sabu Hameed</h1>
 <h3 align="center">Final Year Student majoring in Computer Science Engineering at IIIT Gwalior</h3>
 
-- 🌱 I’m currently working on **MERN Stack**
+- 🌱 I’m currently working on **Go and Ruby**
 
 - 👨‍💻 All my projects are available at: [https://github.com/SaahilSabu?tab=repositories](https://github.com/SaahilSabu?tab=repositories)
 
