@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 - 📫 Reach me at: **saahil.sabu@gmail.com**
 
+Visitor Count:
+
+![Visitor Count](https://profile-counter.glitch.me/secrashi/count.svg) 
+
 
 ## 📊 My Github Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SaahilSabu&theme=dark)](https://git.io/streak-stats)
@@ -38,3 +42,5 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/saahil-sabu-hameed-9944a0168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaahilSabu" height="30" width="40" /></a>
 </p>
+
+ ![Leetcode Stats](https://leetcode.card.workers.dev/?username=saahilhameed&theme=unicorn)
