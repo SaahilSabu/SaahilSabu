@@ -39,8 +39,7 @@ Visitor Count:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaahilSabu&layout=compact&theme=react)](https://github.com/SaahilSabu/github-readme-stats)
 
 ## Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/saahil-sabu-hameed-9944a0168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaahilSabu" height="30" width="40" /></a>
-</p>
+  💬 Reach out to me at [Mail](saahil.sabu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saahil-sabu-hameed-9944a0168/)  | [Twitter](https://twitter.com/saahilsabu)
 
+##
  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=saahilhameed&theme=unicorn)
