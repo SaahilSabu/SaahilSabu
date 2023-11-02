@@ -40,4 +40,6 @@ Visitor Count:
   💬 Reach out to me at [Mail](saahil.sabu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saahil-sabu-hameed-9944a0168/)  | [Twitter](https://twitter.com/saahilsabu)
 
 ##
+<!--
  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=saahilhameed&theme=unicorn)
+-->
